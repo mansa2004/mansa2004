@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Mansa Saxena
 
-<!--
-**mansa2004/mansa2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate AI/ML Enthusiast from India
 
-Here are some ideas to get you started:
+🔭 I’m currently working on **AI ML Projects**  
+🌱 I’m currently learning **Python Frameworks**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **Java,Python,MongoDB**  
+📫 How to reach me **mansasaxena7@gmail.com**  
+📄 Know about my experiences   https://l1nk.dev/s0OaE 
+
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,tensorflow,mongodb,mysql,github,figma" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://l1nk.dev/s0OaE" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:mansasaxena7@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
+</p>
